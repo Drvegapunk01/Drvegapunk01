@@ -6,7 +6,7 @@
 
 
 
-in this account im probably just post my PCB design project, arduino code, stm32 code, and circuit design
+in this account im probably just post my PCB design project, arduino code, stm32 code, and my circuit design
 :)
 
 
