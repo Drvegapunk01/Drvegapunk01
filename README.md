@@ -1,7 +1,7 @@
 -hi, I’m @Drvegapunk01
 - im a electronics student
 - im love to work with embeded sistem 
-- and fun fact, im form indonesia / papua barat
+- studying on SMK 2 Manokwari 
 
 
 
